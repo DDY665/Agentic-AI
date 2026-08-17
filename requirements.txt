@@ -4,6 +4,7 @@ langchain-tavily==0.2.18
 langchain[google-genai]
 langchain-google-genai
 ddgs==9.14.4
+langchain-openai
 python-dotenv
 requests
 tavily-python

@@ -18,4 +18,7 @@ dependencies = [
     "tavily-python>=0.7.27",
     "langchain-openai>=1.4.0",
     "ipykernel>=7.3.0",
+    "langgraph-checkpoint-postgres>=3.1.2",
+    "psycopg[binary]>=3.3.4",
+    "langgraph-checkpoint-mongodb>=0.4.0",
 ]

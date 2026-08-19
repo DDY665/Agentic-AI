@@ -8,3 +8,6 @@ langchain-openai
 python-dotenv
 requests
 tavily-python
+langgraph-checkpoint-postgres 
+psycopg[binary]
+langgraph-checkpoint-mongodb
